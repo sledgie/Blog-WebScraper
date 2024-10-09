@@ -1,0 +1,527 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ChatGPTExePath&",
+        "openai_url&",
+        "mulesoft_path&",
+        "js_inject_code&",
+        "main_folder_path&"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [
+        "constArchive&",
+        "constProcessed&",
+        "constQueue&"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "mulesoft_path&595b36f8-d285-4f40-b4e2-fa1df04352da",
+        "js_inject_code&595b36f8-d285-4f40-b4e2-fa1df04352da",
+        "main_folder_path&595b36f8-d285-4f40-b4e2-fa1df04352da",
+        "openai_url&595b36f8-d285-4f40-b4e2-fa1df04352da",
+        "ChatGPTExePath&595b36f8-d285-4f40-b4e2-fa1df04352da",
+        "scrubbedText&Sequence_5",
+        "exists&Sequence_5",
+        "args&Sequence_5",
+        "mainpath&Sequence_5",
+        "Fthis&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "constQueue&595b36f8-d285-4f40-b4e2-fa1df04352da",
+        "constProcessed&595b36f8-d285-4f40-b4e2-fa1df04352da",
+        "constArchive&595b36f8-d285-4f40-b4e2-fa1df04352da"
+      ],
+      "ConstantsSectionElementsOrder": [
+        "constQueue&595b36f8-d285-4f40-b4e2-fa1df04352da",
+        "constProcessed&595b36f8-d285-4f40-b4e2-fa1df04352da",
+        "constArchive&595b36f8-d285-4f40-b4e2-fa1df04352da",
+        "constQueue&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "constProcessed&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "constArchive&58b8a61c-7405-4c77-bdaa-2ee9641f37ec"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "xebia-blog.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "mulesoft_path&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "js_inject_code&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "main_folder_path&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "openai_url&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "ChatGPTExePath&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "ctrResult&Sequence_2",
+        "counter&Sequence_2",
+        "cleanedText&Sequence_7",
+        "payload&Sequence_7",
+        "xebia_url&Sequence_7",
+        "xebia_existing&Sequence_3",
+        "xebia_file_name&Sequence_3",
+        "xebia_file_name&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "constQueue&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "constProcessed&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "constArchive&58b8a61c-7405-4c77-bdaa-2ee9641f37ec"
+      ],
+      "ConstantsSectionElementsOrder": [
+        "constQueue&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "constProcessed&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "constArchive&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "constQueue&e134deef-94b6-4d15-bf42-f4a1d11ddc55",
+        "constProcessed&e134deef-94b6-4d15-bf42-f4a1d11ddc55",
+        "constArchive&e134deef-94b6-4d15-bf42-f4a1d11ddc55"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "theseattledataguy.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "cleanedText&Sequence_7",
+        "payload&Sequence_7",
+        "tsdg_url&Sequence_7",
+        "tsdg_existing&Sequence_2",
+        "tsdg_file_name&Sequence_3",
+        "tsdg_file_name&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "cloudacademy.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "cleanedText&Sequence_15",
+        "payload&Sequence_15",
+        "ca2_url&Sequence_15",
+        "ca2_existing&Sequence_10",
+        "ca2_existing&Sequence_12",
+        "ca2_file_name&Sequence_9",
+        "ca2_file_name&Sequence_10",
+        "cleanedText&Sequence_7",
+        "payload&Sequence_7",
+        "ca_url&Sequence_7",
+        "ca_existing&Sequence_3",
+        "ca_existing&Sequence_5",
+        "ca_file_name&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "bitstrapped.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "mulesoft_path&Sequence_1",
+        "js_inject_code&Sequence_1",
+        "main_folder_path&Sequence_1",
+        "openai_url&Sequence_1",
+        "ChatGPTExePath&Sequence_1",
+        "ctrResult&Sequence_2",
+        "counter&Sequence_2",
+        "people_url&Sequence_4",
+        "payload&Sequence_4",
+        "cleanedText&Sequence_4",
+        "people_existing&Sequence_3",
+        "people_file_name&Sequence_3",
+        "people_file_name&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "constQueue&Sequence_1",
+        "constProcessed&Sequence_1",
+        "constArchive&Sequence_1"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "amazon.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "mulesoft_path&Sequence_5",
+        "js_inject_code&Sequence_5",
+        "main_folder_path&Sequence_5",
+        "openai_url&Sequence_5",
+        "ChatGPTExePath&Sequence_5",
+        "ctrResult&Sequence_2",
+        "counter&Sequence_2",
+        "amazon_file_name&Sequence_3",
+        "amazon_existing&Sequence_3",
+        "amazon_file_name&Sequence_3",
+        "amazon_existing&Sequence_3",
+        "amazon_url&Sequence_4",
+        "payload&Sequence_4",
+        "cleanedText&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "constQueue&Sequence_5",
+        "constProcessed&Sequence_5",
+        "constArchive&Sequence_5"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "microsoft-learn-blog.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "cleanedText&Sequence_4",
+        "payload&Sequence_4",
+        "ms_url&Sequence_4",
+        "ms_existing&Sequence_3",
+        "ms_file_name&Sequence_3",
+        "ms_file_name&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "fivetran.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "jsonRequest&Sequence_17",
+        "content&Sequence_17",
+        "deserializedJSON&Sequence_17",
+        "response&Sequence_17",
+        "mulesoft_path&Sequence_21",
+        "js_inject_code&Sequence_21",
+        "main_folder_path&Sequence_21",
+        "openai_url&Sequence_21",
+        "cleanedText&Sequence_17",
+        "payload&Sequence_17",
+        "ft_url&Sequence_17",
+        "fivetran_existing&Sequence_7",
+        "ft_file_name&Sequence_7",
+        "counter&Sequence_2",
+        "theTitle&Sequence_7",
+        "cv_result&Sequence_2",
+        "mulesoft_path&Sequence_19",
+        "js_inject_code&Sequence_19",
+        "main_folder_path&Sequence_19"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "techopedia.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "content&Sequence_4",
+        "deserializedJSON&Sequence_4",
+        "response&Sequence_4",
+        "openai_url&Sequence_21",
+        "mulesoft_path&Sequence_21",
+        "js_inject_code&Sequence_21",
+        "main_folder_path&Sequence_21",
+        "cleanedText&Sequence_4",
+        "payload&Sequence_4",
+        "tp_url&Sequence_4",
+        "tp_existing&Sequence_3",
+        "tp_file_name&Sequence_3",
+        "counter&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "databricks.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "mulesoft_path&Sequence_1",
+        "js_inject_code&Sequence_1",
+        "main_folder_path&Sequence_1",
+        "openai_url&Sequence_1",
+        "ChatGPTExePath&Sequence_1",
+        "cleanedText&Sequence_4",
+        "payload&Sequence_4",
+        "db_url&Sequence_4",
+        "db_existing&Sequence_3",
+        "db_file_name&Sequence_3",
+        "ctrResult&Sequence_2",
+        "counter&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "constQueue&Sequence_1",
+        "constProcessed&Sequence_1",
+        "constArchive&Sequence_1"
+      ],
+      "ConstantsSectionElementsOrder": [
+        "constQueue&Sequence_1",
+        "constProcessed&Sequence_1",
+        "constArchive&Sequence_1",
+        "constQueue&Sequence_5",
+        "constProcessed&Sequence_5",
+        "constArchive&Sequence_5"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "sas.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "cleanedText&Sequence_4",
+        "payload&Sequence_4",
+        "sas_url&Sequence_4",
+        "sas_existing&Sequence_3",
+        "sas_file_name&Sequence_3",
+        "ctrResult&Sequence_2",
+        "counter&Sequence_2",
+        "mulesoft_path&Sequence_5",
+        "js_inject_code&Sequence_5",
+        "main_folder_path&Sequence_5",
+        "openai_url&Sequence_5",
+        "ChatGPTExePath&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "constQueue&Sequence_5",
+        "constProcessed&Sequence_5",
+        "constArchive&Sequence_5"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "enterpriseproject.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "mulesoft_path&Sequence_5",
+        "js_inject_code&Sequence_5",
+        "main_folder_path&Sequence_5",
+        "openai_url&Sequence_5",
+        "ChatGPTExePath&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "constQueue&Sequence_5",
+        "constProcessed&Sequence_5",
+        "constArchive&Sequence_5"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "digital-transformation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "cleanedText&Sequence_5",
+        "payload&Sequence_5",
+        "ep_dt_url&Sequence_5",
+        "ep_dt_existing&Sequence_3",
+        "ep_dt_file_name&Sequence_4",
+        "ep_dt_file_name&Sequence_3",
+        "ctrResult&Sequence_2",
+        "counter&Sequence_2",
+        "mulesoft_path&Sequence_5",
+        "js_inject_code&Sequence_5",
+        "main_folder_path&Sequence_5",
+        "openai_url&Sequence_5",
+        "ChatGPTExePath&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "constQueue&Sequence_5",
+        "constProcessed&Sequence_5",
+        "constArchive&Sequence_5"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "enterprise-technology.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "cleanedText&Sequence_4",
+        "payload&Sequence_4",
+        "ep_et_url&Sequence_4",
+        "ep_et_existing&Sequence_3",
+        "ep_et_file_name&Sequence_3",
+        "ctrResult&Sequence_2",
+        "counter&Sequence_2",
+        "mulesoft_path&Sequence_5",
+        "js_inject_code&Sequence_5",
+        "main_folder_path&Sequence_5",
+        "openai_url&Sequence_5",
+        "ChatGPTExePath&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "constQueue&Sequence_5",
+        "constProcessed&Sequence_5",
+        "constArchive&Sequence_5"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "phdata.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "mulesoft_path&Sequence_1",
+        "js_inject_code&Sequence_1",
+        "main_folder_path&Sequence_1",
+        "openai_url&Sequence_1",
+        "ChatGPTExePath&Sequence_1",
+        "ph_url&Sequence_1",
+        "counter&Sequence_2",
+        "ctrResult&Sequence_2",
+        "theTitle&Sequence_3",
+        "title&Sequence_3",
+        "curLabel&Sequence_3",
+        "ph_file_name&Sequence_3",
+        "ph_existing&Sequence_3",
+        "theTitle&Sequence_3",
+        "title&Sequence_3",
+        "curLabel&Sequence_3",
+        "ph_file_name&Sequence_3",
+        "ph_existing&Sequence_3",
+        "payload&Sequence_4",
+        "cleanedText&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "constQueue&Sequence_1",
+        "constProcessed&Sequence_1",
+        "constArchive&Sequence_1"
+      ],
+      "ConstantsSectionElementsOrder": [
+        "constQueue&Sequence_1",
+        "constProcessed&Sequence_1",
+        "constArchive&Sequence_1",
+        "constQueue&Sequence_5",
+        "constProcessed&Sequence_5",
+        "constArchive&Sequence_5"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "businessleadership.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "mulesoft_path&Sequence_1",
+        "js_inject_code&Sequence_1",
+        "main_folder_path&Sequence_1",
+        "openai_url&Sequence_1",
+        "ChatGPTExePath&Sequence_1",
+        "counter&Sequence_2",
+        "ctrResult&Sequence_2",
+        "title&Sequence_3",
+        "bl_file_name&Sequence_3",
+        "bl_existing&Sequence_3",
+        "title&Sequence_3",
+        "bl_file_name&Sequence_3",
+        "bl_existing&Sequence_3",
+        "tp_url&Sequence_4",
+        "payload&Sequence_4",
+        "cleanedText&Sequence_4",
+        "response&Sequence_4",
+        "deserializedJSON&Sequence_4",
+        "content&Sequence_4",
+        "bl_url&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "constQueue&Sequence_1",
+        "constProcessed&Sequence_1",
+        "constArchive&Sequence_1"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "pluralsight.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "mulesoft_path&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "js_inject_code&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "main_folder_path&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "openai_url&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "ChatGPTExePath&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "counter&Sequence_2",
+        "ctrResult&Sequence_2",
+        "ps_file_name&Sequence_3",
+        "ps_existing&Sequence_3",
+        "ps_file_name&Sequence_3",
+        "ps_existing&Sequence_3",
+        "ps_url&Sequence_4",
+        "payload&Sequence_4",
+        "cleanedText&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "constQueue&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "constProcessed&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "constArchive&58b8a61c-7405-4c77-bdaa-2ee9641f37ec"
+      ],
+      "ConstantsSectionElementsOrder": [
+        "constQueue&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "constProcessed&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "constArchive&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "constQueue&Sequence_1",
+        "constProcessed&Sequence_1",
+        "constArchive&Sequence_1"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "k21-blog.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "mulesoft_path&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "js_inject_code&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "main_folder_path&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "openai_url&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "ChatGPTExePath&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "counter&Sequence_2",
+        "ctrResult&Sequence_2",
+        "k21_file_name&Sequence_3",
+        "k21_existing&Sequence_3",
+        "k21_file_name&Sequence_3",
+        "k21_existing&Sequence_3",
+        "k12_url&Sequence_4",
+        "payload&Sequence_4",
+        "cleanedText&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "constQueue&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "constProcessed&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "constArchive&58b8a61c-7405-4c77-bdaa-2ee9641f37ec"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "tatvasoft.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "mulesoft_path&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "js_inject_code&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "main_folder_path&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "openai_url&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "ChatGPTExePath&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "counter&Sequence_2",
+        "ctrResult&Sequence_2",
+        "tat_file_name&Sequence_3",
+        "tat_existing&Sequence_3",
+        "tat_file_name&Sequence_3",
+        "tat_existing&Sequence_3",
+        "tat_url&Sequence_4",
+        "payload&Sequence_4",
+        "cleanedText&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "constQueue&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "constProcessed&58b8a61c-7405-4c77-bdaa-2ee9641f37ec",
+        "constArchive&58b8a61c-7405-4c77-bdaa-2ee9641f37ec"
+      ],
+      "AddedNamespaces": null
+    }
+  ]
+}
